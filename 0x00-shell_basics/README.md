@@ -1,2 +1,3 @@
-this repository contains scripts about dscribing the tasks that are given to aus
-focuses on shell basics of manipulation of text and files 
+#!/bin/bash
+this script will print out the path of current project working directory
+root/alx-system_engineering-devops/0x00-shell_basics 
