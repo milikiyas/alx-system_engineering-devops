@@ -1,3 +1,3 @@
-#!/bin/bash
-this script will print out sub directories of the current working directories
+#!/bin/bashs
+this script will take you to the home directories
  
