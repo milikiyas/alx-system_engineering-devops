@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al -r  | grep '^-'  ls -al -r /boot | grep '^-'
+ls -al -r  /root /boot | grep'^-'
