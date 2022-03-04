@@ -1,2 +1,2 @@
 #!/bin/bash
-who
+ls -la /etc/group
