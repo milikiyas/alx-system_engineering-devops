@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al -r  /root /boot | gre -l
+ls -al -r  /root /boot | grep -l
