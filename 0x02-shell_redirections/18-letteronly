@@ -1,3 +1,3 @@
 #!/bin/bash
-grep ^ [[:alpha:]] /etc/ssd/sshd_config
+grep ^[[:alpha:]] /etc/ssd/sshd_config
 
